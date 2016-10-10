@@ -1,0 +1,32 @@
+{
+  "name": "mpgmaker",
+  "version": "1.0.0",
+  "description": "a command line tool to init a magical pixi game",
+  "main": "bin/index.js",
+  "bin": {
+    "mpgmaker": "bin/index.js"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagicalPixi/mpgmaker.git"
+  },
+  "keywords": [
+    "pixi",
+    "MagicalPixi",
+    "game",
+    "maker"
+  ],
+  "author": "guoshencheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MagicalPixi/mpgmaker/issues"
+  },
+  "homepage": "https://github.com/MagicalPixi/mpgmaker#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "shelljs": "^0.7.4"
+  }
+}

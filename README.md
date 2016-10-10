@@ -20,4 +20,4 @@ Link the command</br>
 `npm link`
 
 ###### author
-`guoshencheng`,  `guoshencheng2@gmail.com`
+`guoshencheng`,  `guoshencheng1@gmail.com`
